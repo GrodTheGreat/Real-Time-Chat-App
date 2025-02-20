@@ -9,7 +9,7 @@ class Status:
 
 class ChatType:
     id: int
-    type: str
+    type_name: str
 
 
 class User:
