@@ -11,7 +11,7 @@
 
     if (!username) {
       alert("You must enter a username!");
-      console.error("You must enter a password");
+      console.error("You must enter a username");
       return;
     }
     if (password !== confirmedPassword) {
